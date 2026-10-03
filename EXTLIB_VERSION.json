@@ -43,6 +43,6 @@
   },
   "package_tag": "v67-compat",
   "package_date": "2026-10-03",
-  "url": "https://github.com/AlexanderHuels/OpenCourant_extlib/releases/download/v67-compat/extlib.zip",
+  "url": "https://github.com/OpenCourant/extlib/releases/download/v67-compat/extlib.zip",
   "sha256": "6ebf4f3d5caa3f4c8608e6d5dafc360c055272cbfc754120181435dd8f51e4cd"
 }
